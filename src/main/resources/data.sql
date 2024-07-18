@@ -1,0 +1,10 @@
+INSERT INTO todo (ID, USERNAME, DESCRIPTION, TARGET_DATE, DONE)
+VALUES (10001, 'sethanimesh', 'Learn AWS DevOps', CURRENT_DATE(), false);
+
+INSERT INTO todo (ID, USERNAME, DESCRIPTION, TARGET_DATE, DONE)
+VALUES (10002, 'sethanimesh', 'Learn AWS Certified', CURRENT_DATE(), false);
+
+INSERT INTO todo (ID, USERNAME, DESCRIPTION, TARGET_DATE, DONE)
+VALUES (10003, 'sethanimesh', 'Learn Azure Certified', CURRENT_DATE(), false);
+
+
